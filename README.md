@@ -89,4 +89,4 @@ This project is created for educational / internship assessment purposes only.
 
 ---
 
-Made with ❤️ by Naren
+Made by Narendar
