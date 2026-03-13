@@ -53,7 +53,7 @@ school-homepage/
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/your-username/school-homepage.git
+   git clone https://github.com/narendar009/School-Homepage.git
    ```
 2. **Open the project folder** and double-click `index.html`, or:
    ```bash
